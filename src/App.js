@@ -18,7 +18,7 @@ function App() {
         >
           Learn CI CD
         </a>
-        <Button text="Test"/>
+        <Button text="Login App"/>
       </header>
     </div>
   );
